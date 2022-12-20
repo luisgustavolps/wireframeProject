@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    /* outline: none; */
+    text-decoration: none; /* reseta a linha que fica abaixo do link */
+    list-style: none; /* reseta as bolinhas da tag lista */
+    box-sizing: border-box; 
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+html {
+    font-size: 62.5%; /* define a fonte em 10px em porcentagem */
+}
+
+button {
+    cursor: pointer;
+}
